@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: d1b6a70e4efc70c48aab462baa3eaa0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -828935010113338213
+    second: mirror-goal_0
+  - first:
+      213: -7489741015627598839
+    second: mirror-goal_1
+  - first:
+      213: -1523627159352385358
+    second: mirror-goal_2
+  - first:
+      213: -7858863085352229066
+    second: mirror-goal_3
+  - first:
+      213: 7728411587538540143
+    second: mirror-goal_4
+  - first:
+      213: 6851620559658254569
+    second: mirror-goal_5
+  - first:
+      213: 1390198509801099358
+    second: mirror-goal_6
+  - first:
+      213: 9099999496643369882
+    second: mirror-goal_7
+  - first:
+      213: -6737050705898426002
+    second: mirror-goal_8
+  - first:
+      213: -6302581358431501771
+    second: mirror-goal_9
+  - first:
+      213: 5078847772427176448
+    second: mirror-goal_10
+  - first:
+      213: 1162457841281137960
+    second: mirror-goal_11
+  - first:
+      213: -4634064142248809313
+    second: mirror-goal_12
+  - first:
+      213: 3267437090572885055
+    second: mirror-goal_13
+  - first:
+      213: -3972955142271430251
+    second: mirror-goal_14
+  - first:
+      213: -7608173114010091343
+    second: mirror-goal_15
+  - first:
+      213: 56106612148782978
+    second: mirror-goal_16
+  - first:
+      213: -3132538296563261381
+    second: mirror-goal_17
+  - first:
+      213: -6300767996135808848
+    second: mirror-goal_18
+  - first:
+      213: -238198472348598726
+    second: mirror-goal_19
+  - first:
+      213: -8455386187320760542
+    second: mirror-goal_20
+  - first:
+      213: -8987060682941195153
+    second: mirror-goal_21
+  - first:
+      213: 1870908660651241830
+    second: mirror-goal_22
+  - first:
+      213: 8158657492846482557
+    second: mirror-goal_23
+  - first:
+      213: 2215733413158413836
+    second: mirror-goal_24
+  - first:
+      213: 8505082617171983793
+    second: mirror-goal_25
+  - first:
+      213: -30236699707364238
+    second: mirror-goal_26
+  - first:
+      213: 7047268127318785945
+    second: mirror-goal_27
+  - first:
+      213: -3469758793704264254
+    second: mirror-goal_28
+  - first:
+      213: 3910970862774901754
+    second: mirror-goal_29
+  - first:
+      213: -7171708601589914022
+    second: mirror-goal_30
+  - first:
+      213: 5325070653586330164
+    second: mirror-goal_31
+  - first:
+      213: 6764842542613262110
+    second: mirror-goal_32
+  - first:
+      213: 723634483980366063
+    second: mirror-goal_33
+  - first:
+      213: -7474315303752553023
+    second: mirror-goal_34
+  - first:
+      213: 4868023534990736163
+    second: mirror-goal_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mirror-goal_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 863
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944f4c00080f74f0800000000000000
+      internalID: -828935010113338213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 949
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f7d78a381f0890800000000000000
+      internalID: -7489741015627598839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 986
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e9accb2dfadae0800000000000000
+      internalID: -1523627159352385358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 961
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637662379a5bfe290800000000000000
+      internalID: -7858863085352229066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_4
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 156
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665f395465d04b60800000000000000
+      internalID: 7728411587538540143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 955
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0813af898d51f50800000000000000
+      internalID: 6851620559658254569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 959
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d8f7dd2afa4310800000000000000
+      internalID: 1390198509801099358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 849
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b59ad0451b94e70800000000000000
+      internalID: 9099999496643369882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 691
+        width: 107
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e613121d3103182a0800000000000000
+      internalID: -6737050705898426002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 742
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53201b2a5abb888a0800000000000000
+      internalID: -6302581358431501771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_10
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 723
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4ecfd321bb7640800000000000000
+      internalID: 5078847772427176448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 731
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dfde76f31e12010800000000000000
+      internalID: 1162457841281137960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 653
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c62e6073f70bfb0800000000000000
+      internalID: -4634064142248809313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 623
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5885e8b4485d20800000000000000
+      internalID: 3267437090572885055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 511
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5919954095a3dd8c0800000000000000
+      internalID: -3972955142271430251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 462
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b040c5dcd65a6690800000000000000
+      internalID: -7608173114010091343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_16
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 472
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287cdae9aa457c000800000000000000
+      internalID: 56106612148782978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_17
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302a04240df684d0800000000000000
+      internalID: -3132538296563261381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 395
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ec22f3ec2f88a0800000000000000
+      internalID: -6300767996135808848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 409
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3efe9d50cfb1bcf0800000000000000
+      internalID: -238198472348598726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 274
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227600aaf0f68aa80800000000000000
+      internalID: -8455386187320760542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_21
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 239
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c1962aceb874380800000000000000
+      internalID: -8987060682941195153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_22
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661b15da38dc6f910800000000000000
+      internalID: 1870908660651241830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_23
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74913963cf593170800000000000000
+      internalID: 8158657492846482557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_24
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 145
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066540cccddfbe10800000000000000
+      internalID: 2215733413158413836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_25
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb2e5149f180670800000000000000
+      internalID: 8505082617171983793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c23ceb1e3949ff0800000000000000
+      internalID: -30236699707364238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 112
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb4c5160decc160800000000000000
+      internalID: 7047268127318785945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 99
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd28fcb2c0f8dfc0800000000000000
+      internalID: -3469758793704264254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 104
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbd99a474f864630800000000000000
+      internalID: 3910970862774901754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ae913609f87c90800000000000000
+      internalID: -7171708601589914022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 66
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432ded6cb8376e940800000000000000
+      internalID: 5325070653586330164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 80
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe9e9637c81ed50800000000000000
+      internalID: 6764842542613262110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_33
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe07fdcaabdda0a00800000000000000
+      internalID: 723634483980366063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_34
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd2094f4d5e54890800000000000000
+      internalID: -7474315303752553023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror-goal_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 38
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3d59fc91be8340800000000000000
+      internalID: 4868023534990736163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mirror-goal_0: -828935010113338213
+      mirror-goal_1: -7489741015627598839
+      mirror-goal_10: 5078847772427176448
+      mirror-goal_11: 1162457841281137960
+      mirror-goal_12: -4634064142248809313
+      mirror-goal_13: 3267437090572885055
+      mirror-goal_14: -3972955142271430251
+      mirror-goal_15: -7608173114010091343
+      mirror-goal_16: 56106612148782978
+      mirror-goal_17: -3132538296563261381
+      mirror-goal_18: -6300767996135808848
+      mirror-goal_19: -238198472348598726
+      mirror-goal_2: -1523627159352385358
+      mirror-goal_20: -8455386187320760542
+      mirror-goal_21: -8987060682941195153
+      mirror-goal_22: 1870908660651241830
+      mirror-goal_23: 8158657492846482557
+      mirror-goal_24: 2215733413158413836
+      mirror-goal_25: 8505082617171983793
+      mirror-goal_26: -30236699707364238
+      mirror-goal_27: 7047268127318785945
+      mirror-goal_28: -3469758793704264254
+      mirror-goal_29: 3910970862774901754
+      mirror-goal_3: -7858863085352229066
+      mirror-goal_30: -7171708601589914022
+      mirror-goal_31: 5325070653586330164
+      mirror-goal_32: 6764842542613262110
+      mirror-goal_33: 723634483980366063
+      mirror-goal_34: -7474315303752553023
+      mirror-goal_35: 4868023534990736163
+      mirror-goal_4: 7728411587538540143
+      mirror-goal_5: 6851620559658254569
+      mirror-goal_6: 1390198509801099358
+      mirror-goal_7: 9099999496643369882
+      mirror-goal_8: -6737050705898426002
+      mirror-goal_9: -6302581358431501771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
